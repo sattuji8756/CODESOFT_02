@@ -1,2 +1,2 @@
 # CODESOFT_01
-'Python Programming' internship from CODESOFT. Task_01:= SIMPLE GUI CALCULATOR
+'Python Programming' internship from CODESOFT. Task_02:= SIMPLE GUI CALCULATOR
